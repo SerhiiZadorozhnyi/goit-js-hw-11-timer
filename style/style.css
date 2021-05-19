@@ -1,33 +1,43 @@
 * {
     box-sizing: border-box;
-  }
-  
-  body {
-    background-color: #E7D6BA;
-  }
-  
-  .timer {
-    display: flex;
-    justify-content: center;
-  }
-  
-  .field {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    width: 200px;
-    outline-style: double;
-    outline-color: #9A8F7C;
-  }
-  
-  .label{
-    color: #9A8F7C;
-    font-size: 22px;
-  }
+}
 
-  .value {
-    color: #9A8F7C;
-    border-radius: 4px;
-    font-size: 80px;
-  }
+body {
+  background-color: #E7D6BA;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 200px;
+  outline-style: double;
+  outline-color: #9A8F7C;
+}
+
+.label{
+  color: #9A8F7C;
+  font-size: 22px;
+}
+
+.value {
+  color: #9A8F7C;
+  border-radius: 4px;
+  font-size: 80px;
+}
+
+.new-year{
+  text-align: center;
+  font-size: 32px;
+  color: #817869;
+}
+
+.year{
+  color: #555047;
+}
