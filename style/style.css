@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #E7D6BA;
+  background-color: rebeccapurple;
 }
 
 .timer {
@@ -19,16 +19,16 @@ body {
   text-align: center;
   width: 200px;
   outline-style: double;
-  outline-color: #9A8F7C;
+  outline-color: navajowhite;
 }
 
 .label{
-  color: #9A8F7C;
+  color: navajowhite;
   font-size: 22px;
 }
 
 .value {
-  color: #9A8F7C;
+  color: navajowhite;
   border-radius: 4px;
   font-size: 80px;
 }
@@ -41,7 +41,7 @@ body {
   justify-content: center;
   width: max-content;
   font-size: 32px;
-  color: #817869;
+  color: navajowhite;
   margin: 0;
   margin-top: 4px;
   padding-top: 15px;
@@ -52,7 +52,7 @@ body {
 }
 
 .year{
-  color: #555047;
+  color: cyan;
   padding-right: 5px;
   padding-left: 5px;
 }
