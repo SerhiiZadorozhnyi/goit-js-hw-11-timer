@@ -50,5 +50,5 @@ class CountdownTimer {
 
 new CountdownTimer({
   selector: "#timer-1",
-  targetDate: new Date("Jan 1, 2022"),
+  targetDate: new Date("Jan 1, 2024"),
 });
